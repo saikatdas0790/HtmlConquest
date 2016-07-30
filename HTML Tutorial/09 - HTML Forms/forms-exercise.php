@@ -13,7 +13,7 @@
 	'select' => 'saikat (select)',
 );-->
 
-<!doctype HTML>
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>Using different elements of the 'form' tag</title>
@@ -34,12 +34,12 @@
 		<form action="" method="POST">
 			<p>
 				<label for="string1">String 1</label>
-				<input type="text" name="string1" id="string1" value="User Data">
+        <input type="text" name="string1" id="string1" value="User Data"></input>
 			</p>
 
 			<p>
 				<label for="arr1[v1]">Array 1 V1 (arr1[v1])</label>
-				<input type="text" name="arr1[v1]" id="arr1_v1" value="User Data">
+        <input type="text" name="arr1[v1]" id="arr1_v1" value="User Data"></input>
 			</p>
 
 			<!-- We use fieldset to group a set of radios/checkboxes
