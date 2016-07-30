@@ -72,12 +72,16 @@
 			</fieldset>
 
 			<fieldset>
+				<legend>Checkbox Elements (arr1[arr2][1])</legend>
 
-				<label for="arr1[arr2][1][0]">Array 1 Array 2 1st Element 0th Element</label>
-				<input type="checkbox" name="arr1[arr2][1][]" id="arr1_arr2_1_0" value="0"><br>
+				<input type="checkbox" name="arr1[arr2][1][]" id="arr1_arr2_1_0" value="0" />
+				<label for="arr1_arr2_1_0">0th Element</label><br />
 
-				<label for="arr1[arr2][1][1]">Array 1 Array 2 1st Element 1st Element</label>
-				<input type="checkbox" name="arr1[arr2][1][]" id="arr1_arr2_1_1" value="1"><br>
+				<input type="checkbox" name="arr1[arr2][1][]" id="arr1_arr2_1_1" value="1" />
+				<label for="arr1_arr2_1_1">1st Element</label><br />
+
+				<input type="checkbox" name="arr1[arr2][1][]" id="arr1_arr2_1_2" value="2" />
+				<label for="arr1_arr2_1_2">2nd Element</label><br />
 			</fieldset>
 
 			<label for="select">Select Element</label>
