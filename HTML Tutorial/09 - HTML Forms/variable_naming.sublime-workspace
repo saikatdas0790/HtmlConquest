@@ -1,0 +1,928 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"debug",
+				"debug_info"
+			],
+			[
+				"url_t",
+				"url_tracking_items"
+			],
+			[
+				"averag",
+				"average_meta"
+			],
+			[
+				"anima",
+				"animation"
+			],
+			[
+				"chart_s",
+				"chart_start_row"
+			],
+			[
+				"signa",
+				"signature_image"
+			],
+			[
+				"sig",
+				"signature_image"
+			],
+			[
+				"get_style",
+				"get_stylesheet_directory"
+			],
+			[
+				"bx",
+				"bxz-bb\tbox-sizing: border-box;"
+			],
+			[
+				"droppabl",
+				"droppable_messages"
+			],
+			[
+				"format_stri",
+				"get_format_string"
+			],
+			[
+				"prop",
+				"prop\t.prop() - single"
+			],
+			[
+				"datatables",
+				"DataTables"
+			],
+			[
+				"ipt_fsqm_setti",
+				"ipt_fsqm_settings"
+			],
+			[
+				"wp_remote_",
+				"wp_remote_retrieve_body"
+			],
+			[
+				"strip",
+				"stripslashes_deep"
+			],
+			[
+				"htmlspe",
+				"htmlspecialchars_decode"
+			],
+			[
+				"htmsp",
+				"htmlspecialchars_decode"
+			],
+			[
+				"htmlde",
+				"html_entity_decode"
+			],
+			[
+				"parse",
+				"parse_query"
+			],
+			[
+				"esc_att",
+				"esc_attr__"
+			],
+			[
+				"admin_noti",
+				"admin_notices"
+			],
+			[
+				"nav-tab",
+				"nav-tab-active"
+			],
+			[
+				"nav",
+				"nav-tab-wrapper"
+			],
+			[
+				"quot",
+				"wp_magic_quotes"
+			],
+			[
+				"get_page_tem",
+				"get_page_templates"
+			],
+			[
+				"admin_notice",
+				"all_admin_notices"
+			],
+			[
+				"shor",
+				"shortcode_atts"
+			],
+			[
+				"modify",
+				"modify_redirection_url"
+			],
+			[
+				"mathemat",
+				"Mathematical"
+			],
+			[
+				"configura",
+				"configurable"
+			],
+			[
+				"number_fo",
+				"number_format"
+			],
+			[
+				"esc_at",
+				"esc_attr_e"
+			],
+			[
+				"bs3-inch",
+				"bs3-input:checkbox\tbs3-input-checkbox"
+			],
+			[
+				"f",
+				"for\tAttr"
+			],
+			[
+				"current_user",
+				"get_current_user_id"
+			],
+			[
+				"bs3-btn",
+				"bs3-button\tbs3-button"
+			],
+			[
+				"number_for",
+				"number_format_i18n"
+			],
+			[
+				"jquerybo",
+				"jQueryBoilerPlate\tjQueryBoilerPlate"
+			],
+			[
+				"subms",
+				"submissions"
+			],
+			[
+				"g_da",
+				"g_data"
+			],
+			[
+				"g_data",
+				"g_data_row"
+			],
+			[
+				"in",
+				"inarray\t$.inArray()"
+			],
+			[
+				"dra",
+				"drawBarChart"
+			],
+			[
+				"tye",
+				"typeof"
+			],
+			[
+				"aver",
+				"average_meta"
+			],
+			[
+				"fil",
+				"filter\t.filter()"
+			],
+			[
+				"slider_val",
+				"slider_value_to_count"
+			],
+			[
+				"slider_valu",
+				"slider_value_to_count_tr"
+			],
+			[
+				"defa",
+				"defaultOp"
+			],
+			[
+				"get_u",
+				"get_users_args"
+			],
+			[
+				"conditi",
+				"conditionally"
+			],
+			[
+				"curren",
+				"currentTab"
+			],
+			[
+				"supp",
+				"support_status"
+			],
+			[
+				"change",
+				"change_closed_support_status"
+			],
+			[
+				"sele",
+				"selected_status"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"ge",
+				"get\t$.get()"
+			],
+			[
+				"autocomple",
+				"autocomplete_num"
+			],
+			[
+				"get_the_ti",
+				"get_the_title"
+			],
+			[
+				"boot",
+				"bootstrap3-typeahead"
+			],
+			[
+				"wp_enque",
+				"wp_enqueue_script"
+			],
+			[
+				"last_",
+				"last_active_time"
+			],
+			[
+				"las",
+				"last_active_time"
+			],
+			[
+				"last_active",
+				"last_active_user_id"
+			],
+			[
+				"topic_",
+				"topic_freshness"
+			],
+			[
+				"topic",
+				"topic_owner"
+			],
+			[
+				"mode",
+				"moderate_reply_form"
+			],
+			[
+				"visual_edi",
+				"visual_editor_enqueue"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_style"
+			],
+			[
+				"liveS",
+				"liveSearchAJAX"
+			],
+			[
+				"live",
+				"liveSearchAJAX"
+			],
+			[
+				"prev",
+				"previousValue"
+			],
+			[
+				"WP_Que",
+				"WP_Query"
+			],
+			[
+				"bs3-li",
+				"bs3-list-group\tbs3-list-group"
+			],
+			[
+				"wp_enqu",
+				"wp_enqueue_script"
+			],
+			[
+				"ipt_bbps",
+				"ipt_bbps_info_default"
+			],
+			[
+				"ipt",
+				"ipt_bbps_settings_new"
+			],
+			[
+				"ipt_bbps_",
+				"ipt_bbps_info_default"
+			],
+			[
+				"register_tax",
+				"register_taxonomy_for_object_type"
+			],
+			[
+				"contai",
+				"container_class"
+			],
+			[
+				"ipt_fsscst",
+				"ipt_fsqm_shortcode_start_date"
+			],
+			[
+				"get_total_sub",
+				"get_total_submissions"
+			],
+			[
+				"ipt_fsqm_shortcode_u",
+				"ipt_fsqm_shortcode_umeta_value"
+			],
+			[
+				"ipt_fsqm_shortcode_ume",
+				"ipt_fsqm_shortcode_umeta_key"
+			],
+			[
+				"iptfsqshcshow",
+				"ipt_fsqm_shortcode_show_header"
+			],
+			[
+				"iptfsqmsshow",
+				"ipt_fsqm_shortcode_show_print"
+			],
+			[
+				"add_ac",
+				"add_filter($tag, $function_to_add, $priority, $accepted_args)\tboolean"
+			],
+			[
+				"add_fil",
+				"add_filter($tag, $function_to_add, $priority, $accepted_args)\tboolean"
+			],
+			[
+				"add_fi",
+				"add_filter($tag, $function_to_add, $priority, $accepted_args)\tboolean"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/J/wamp/alias/ipanel.conf",
+			"settings":
+			{
+				"buffer_size": 191,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 152.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: di",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: r",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"packain",
+				"Package Control: Install Package"
+			],
+			[
+				"phpi",
+				"PHPIntel: Scan Project"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"ali",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control: ad",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"package: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 896.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/J/iPanelThemes/wordpress/wp-content/debug.log",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/classes/class-ipt-fsqm-install.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/classes/class-ipt-fsqm-admin.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/classes/class-ipt-fsqm-exp-install.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/classes/class-ipt-fsqm-form-elements-data.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/lib/classes/class-ipt-plugin-uif-front.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/classes/class-ipt-fsqm-form-elements-front.php",
+		"/J/PersonalProjects/HtmlConquest/HTML Tutorial/FormProcessing/variable_naming.php",
+		"/J/wamp/alias/ppj.conf",
+		"/J/wamp/alias/ipanel.conf",
+		"/J/iPanelThemes/wordpress/wp-content/mu-plugins/debugger.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/lib/js/jquery.ipt-plugin-uif-front.js",
+		"/J/iPanelThemes/wordpress/wp-content/mu-plugins/waypoints.js",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/classes/class-ipt-fsqm-form-elements-utilities.php",
+		"/J/iPanelThemes/wordpress/wp-content/mu-plugins/waypoints.min.js",
+		"/J/iPanelThemes/wordpress/wp-includes/wp-db.php",
+		"/J/iPanelThemes/wordpress/wp-includes/formatting.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-reports-extended/classes/class-ipt-fsqm-re-reports.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/classes/class-ipt-fsqm-form-elements-static.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/static/common/js/jquery.ipt-fsqm-reports.js",
+		"/C/Users/Swashata/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/C/Users/Swashata/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/lib/css/ipt-plugin-uif-admin.css",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/lib/classes/class-ipt-plugin-uif-admin.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/lib/css/ipt-plugin-uif-front.css",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/lib/css/validationEngine.jquery.css",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/lib/classes/class-ipt-plugin-uif-base.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/classes/class-ipt-fsqm-form-elements-base.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/classes/class-ipt-fsqm-form-elements-admin.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/static/common/js/jquery.ipt-fsqm-report.js",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/static/common/js/jquery.ipt-fsqm-reports-new.js",
+		"/C/Users/Swashata/AppData/Roaming/Sublime Text 3/Packages/User/Minify.sublime-settings",
+		"/C/Users/Swashata/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Swashata/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/J/iPanelThemes/wordpress/wpcl/README.md",
+		"/J/iPanelThemes/wordpress/wpcl/assets/css/style.css",
+		"/J/iPanelThemes/wordpress/wpcl/assets/css/modern-theme-1/base.css",
+		"/J/iPanelThemes/wordpress/wpcl/modern-theme-1.html",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/static/front/js/jquery.ipt-fsqm-form.js",
+		"/J/iPanelThemes/wordpress/wpcl/assets/svg-morpheus/demos/demo.js",
+		"/J/iPanelThemes/wordpress/wpcl/assets/svg-morpheus/demos/demo.css",
+		"/J/iPanelThemes/wordpress/wpcl/assets/svg-morpheus/demos/object.html",
+		"/J/iPanelThemes/wordpress/wpcl/assets/js/jquery.ipt-wpcl-svgmorph.js",
+		"/J/iPanelThemes/wordpress/wpcl/assets/svg-morpheus/demos/iconset.svg",
+		"/J/iPanelThemes/wordpress/wpcl/assets/ipt-icomoon/fonts/ipt-icomoon.svg",
+		"/C/Users/Swashata/Desktop/symbol-defs.svg",
+		"/J/iPanelThemes/wordpress/wpcl/assets/svg-morpheus/demos/inline.html",
+		"/J/iPanelThemes/wordpress/wpcl/assets/reset.css",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/classes/class-ipt-fsqm-form-elements-uploader.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/static/front/js/ipt-fsqm-modal-popup.js",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/lib/mpdf611/config_fonts.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/classes/class-ipt-fsqm-exp-export-api.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-mycred/classes/class-ipt-fsqm-mc-install.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/ipt_fsqm_exporter.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/lib/phpExcel/PHPExcel/Writer/PDF/mPDF.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/lib/phpExcel/PHPExcel/Writer/Exception.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/lib/phpExcel/PHPExcel/Writer/HTML.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/.gitignore",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/lib/phpExcel/PHPExcel/Writer/PDF/Core.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/lib/mpdf611/config_fonts-distr-without-OTL.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/static/common/pdf.css",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/classes/class-ipt-fsqm-exp-admin.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/static/admin/js/jquery.ipt-fsqm-exp-export-report.js",
+		"/C/Users/Swashata/Downloads/wp-config.php",
+		"/J/wamp/www/mpdf/index.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/classes/class-ipt-fsqm-exp-form-elements-export-raw.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/classes/class-ipt-fsqm-exp-form-elements-export-report.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/lib/phpExcel/PHPExcel/Writer/IWriter.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/lib/phpExcel/PHPExcel/Writer/PDF.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/lib/phpExcel/PHPExcel/Worksheet/MemoryDrawing.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/lib/phpExcel/PHPExcel/Worksheet/Drawing.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/lib/phpExcel/PHPExcel/Worksheet/BaseDrawing.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/lib/phpExcel/PHPExcel/Writer/Abstract.php",
+		"/J/iPanelThemes/wordpress/wp-content/uploads/fsqm-exp-reports/ipt-fsqm-exp-9.html/report.html",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/lib/phpExcel/PHPExcel/Style.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/lib/phpExcel/PHPExcel/Calculation/Functions.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/lib/jpgraph3.5.0b1/jpgraph_bar.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/lib/jpgraph3.5.0b1/jpgraph_pie.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/lib/phpExcel/PHPExcel/Chart/Renderer/jpgraph.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/lib/mpdf611/config.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/lib/phpExcel/PHPExcel/Chart/Renderer/PHP Charting Libraries.txt",
+		"/J/iPanelThemes/Resources/phpExcel/PHPExcel/Chart/Renderer/jpgraph.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/lib/jpgraph3.5.0b1/jpgraph.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-exporter/lib/phpExcel/PHPExcel/Calculation/Function.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/changelog",
+		"/J/iPanelThemes/WP Plugins/FSQM Pro/fsqm-pro-meta/Package/Documentation/index.html",
+		"/J/iPanelThemes/WP Plugins/FSQM Pro/fsqm-pro-meta/Description/Raw.html",
+		"/J/iPanelThemes/WP Plugins/FSQM Pro/wp-fsqm-pro/ipt_fsqm.php",
+		"/J/iPanelThemes/WP Plugins/FSQM Pro/fsqm-pro-meta/json-api/addons.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/ipt_fsqm.php",
+		"/J/iPanelThemes/WP Plugins/FSQM Pro/fsqm-pro-meta/Package/API Sample/sample-fsqm-api.php",
+		"/J/iPanelThemes/wordpress/wp-content/themes/ipt_mst/functions.php",
+		"/J/iPanelThemes/wordpress/wp-content/themes/ipt_mst/js/ipt_mst.js",
+		"/J/iPanelThemes/wordpress/wp-content/themes/ipt_mst/header.php",
+		"/J/iPanelThemes/wordpress/wp-content/themes/ipt_mst/js/jquery.ipt-mst-metro.js",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-mycred/classes/class-ipt-fsqm-mc-hook.php",
+		"/J/iPanelThemes/wordpress/wp-content/themes/ipt_mst/js/countUp.min.js",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/lib/js/countUp.min.js",
+		"/C/Users/Swashata/AppData/Roaming/Sublime Text 3/Packages/User/Minifier.sublime-settings",
+		"/C/Users/Swashata/AppData/Roaming/Sublime Text 3/Packages/Minifier/Minifier.sublime-settings",
+		"/J/iPanelThemes/wordpress/wp-content/themes/ipt_mst/inc/class-ipt-mst-loader.php",
+		"/J/iPanelThemes/wordpress/wp-content/themes/ipt_mst/js/jquery.waypoints.min.js",
+		"/J/iPanelThemes/wordpress/wp-content/themes/ipt_mst/js/sticky.min.js",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/lib/js/jquery.waypoints.min.js",
+		"/J/iPanelThemes/.jshintrc",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/lib/js/jquery.ipt-uif-builder.js",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/lib/js/jquery.ipt-plugin-uif-front.min.js",
+		"/C/Users/Swashata/AppData/Roaming/Sublime Text 3/Packages/Minify/Minify.sublime-settings",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/static/front/js/jquery.ipt-fsqm-form-dep.js",
+		"/J/iPanelThemes/wordpress/wp-content/themes/ipt-knowledgebase-theme-wp/inc/wp_bootstrap_navwalker.php",
+		"/J/iPanelThemes/wordpress/wp-content/themes/ipt-knowledgebase-theme-wp/functions.php",
+		"/J/iPanelThemes/wordpress/wp-content/themes/ipt-knowledgebase-theme-wp/inc/class-tgm-plugin-activation.php",
+		"/J/iPanelThemes/wordpress/wp-content/themes/ipt-knowledgebase-theme-wp/style.css",
+		"/J/iPanelThemes/wordpress/wp-content/themes/ipt-knowledgebase-theme-wp/inc/class-ipt-kb-knowledgebase-widget.php",
+		"/J/iPanelThemes/wordpress/wp-content/themes/ipt-knowledgebase-theme-wp/home.php",
+		"/J/iPanelThemes/wordpress/wp-content/themes/ipt-knowledgebase-theme-wp/inc/ipt-kb-like-article.php",
+		"/C/Users/Swashata/AppData/Local/Temp/Rar$DRa0.146/TGM-Plugin-Activation-2.5.2/example.php",
+		"/C/Users/Swashata/AppData/Local/Temp/Rar$DRa0.168/TGM-Plugin-Activation-2.5.2/class-tgm-plugin-activation.php",
+		"/J/iPanelThemes/wordpress/wp-content/themes/ipt-knowledgebase-theme-wp/inc/class-ipt-bootstrap-walker-nav-menu.php",
+		"/J/iPanelThemes/wordpress/wp-content/themes/ipt-knowledgebase-theme-wp/lib/sticky-kit/jquery.sticky-kit.min.js",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/ipt-plugin-api/lib/classes/class-ipt-plugin-uif-admin.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/ipt-plugin-api/lib/classes/class-ipt-plugin-uif-base.php",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/lib/js/sayt.jquery.js",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/static/front/css/form.css",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/static/front/js/jquery.ipt-fsqm-form-v2.js",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/lib/js/sayt.min.jquery.js",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/static/front/css/ui-themes/designer-tab-pb.css",
+		"/J/iPanelThemes/wordpress/wp-content/plugins/wp-fsqm-pro/static/front/js/jquery.ipt-fsqm-designer-forms.js"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"J:\\iPanelThemes\\wordpress\\wp-content\\plugins\\wp-fsqm-exporter",
+			"J:\\iPanelThemes\\wordpress\\wp-content\\themes\\ipt_mst",
+			"J:\\iPanelThemes\\wordpress\\wp-content\\themes\\ipt-knowledgebase-theme-wp",
+			"J:\\iPanelThemes\\wordpress\\wp-content\\plugins\\wp-fsqm-pro",
+			"J:\\iPanelThemes\\wordpress\\wp-content\\plugins\\mycred",
+			"J:\\iPanelThemes\\wordpress\\wp-content\\plugins\\wp-fsqm-pro\\integrations\\activecampaign",
+			"J:\\iPanelThemes\\wordpress\\wp-content\\themes\\ipt_mst",
+			"J:\\iPanelThemes\\wordpress\\wp-content\\plugins\\wp-fsqm-pro",
+			"J:\\iPanelThemes\\wordpress\\wp-content\\plugins",
+			"J:\\iPanelThemes\\wordpress\\wp-content\\plugins\\wp-fsqm-pro",
+			"J:\\iPanelThemes\\wordpress\\wp-content\\themes\\ipt_mst",
+			"J:\\iPanelThemes\\wordpress\\wp-content\\plugins\\wp-fsqm-pro",
+			"J:\\iPanelThemes\\wordpress\\wp-content\\plugins\\wp-fsqm-exp-sql",
+			"J:\\iPanelThemes\\wordpress\\wp-content\\plugins\\wp-fsqm-pro",
+			"J:\\iPanelThemes\\wordpress\\wp-content\\plugins\\bbpress"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"console",
+			"waypoint",
+			"Waypoint",
+			"context",
+			"Context",
+			"triggerOnce",
+			"wp_get_current_user",
+			"esb",
+			"\"",
+			"settings",
+			"custom_date",
+			"report_select_questions",
+			"today",
+			"least_date",
+			"custom_date_end",
+			"custom_date_start",
+			"custom_date",
+			"users",
+			"min",
+			"meta",
+			"user_id",
+			"$(field)",
+			"ipt_uif_front_captcha",
+			"iptUIFSigVal",
+			"ovkey",
+			"sl_key",
+			"['values']",
+			"null === $this->data_id && ",
+			"score",
+			"dmin",
+			"min",
+			"ct_label",
+			", iptFSQMReport.g_data.sl_label",
+			"chart_mcq",
+			"console",
+			"direction: -1,",
+			"PieChart",
+			"chart_toggle",
+			"chart_sortable",
+			"chart_matrix",
+			"chart_grading_spinner",
+			"new google.visualization.PieChart(viz_div)",
+			"0",
+			"1",
+			"0",
+			"getChartAverage",
+			"function() {\n\t\t\t\t\tchart = new google.visualization.BarChart(viz_div);\n\t\t\t\t\tchart.draw( data, options );\n\t\t\t\t}",
+			"function() {\n\t\t\t\t\tchart = new google.charts.Bar(viz_div);\n\t\t\t\t\tchart.draw( data, options );\n\t\t\t\t}",
+			"send_mail",
+			"2deg",
+			".ipt-wpcl .ipt-wpcl-mt1 .ipt-wpcl-item .ipt-wpcl-content .ipt-wpcl-meta",
+			"500",
+			"200",
+			"-1deg",
+			"3d",
+			">",
+			"0.5em",
+			"animation",
+			"removeClass",
+			"default",
+			"cf",
+			"0",
+			"inset 0 0 10px rgba(0, 0, 0, 0.3)",
+			"777",
+			"effect2",
+			"10%",
+			"1em",
+			"2deg",
+			"10px",
+			"0",
+			"5px",
+			" ",
+			"10",
+			",",
+			"ipt_fsqm_exp_export_report",
+			"ipt_fsqm_exp_report",
+			"http://maps.google.com",
+			"$_font",
+			"inlinecss",
+			"css",
+			"private",
+			"useInlineCss",
+			"_isPdf",
+			"private",
+			"_useInlineCss",
+			"_extendRowsForChartsAndImages",
+			"chart",
+			"sigpath",
+			"graphpath",
+			"graphs",
+			"image",
+			"raw_image",
+			"_writeImageInCell",
+			"setHTMLHeader",
+			"GroupBarPlot",
+			"TYPE_STOCKCHART",
+			"jpgra",
+			"track",
+			"referer",
+			"ipt_fsqm",
+			"referer",
+			"ipt_uif_label_column ",
+			"destroy",
+			"des",
+			"owl",
+			"des",
+			"waypoint",
+			"waypoints",
+			"name",
+			"this",
+			"TabIndex",
+			"tabIndex",
+			"elm.prev().prev().val()",
+			"type",
+			"i",
+			"selectedOption",
+			"m_check_index",
+			"m_columns",
+			"selected_state",
+			"regEx",
+			"compare_source",
+			"metric",
+			"metric1",
+			"that",
+			"fsqm_ga_data",
+			"clipboard",
+			"builderDuplicateReplaceInnerKeys",
+			"paste2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Full\\-Image\\-Slice_$1$2.jpg",
+			"Full\\-Image\\-Slice_$1.jpg",
+			"ipt_pa",
+			"iptFSQMReportEXTMeta.",
+			"iptFSQMReportEXTMeta",
+			"iptFSQMReportExtMeta",
+			"iptFSQMReportEXTMeta",
+			"transparent",
+			"iptFSQMReportEXT",
+			"'ipt_fsqm_se'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/J/wamp/alias/ipanel.conf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "variable_naming.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 451.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
