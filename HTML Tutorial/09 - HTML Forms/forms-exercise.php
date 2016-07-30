@@ -22,10 +22,13 @@
 	<body>
 		<?php if ( 'POST' == $_SERVER['REQUEST_METHOD'] ) : ?>
 			<h2>Post Request Found: Dumping Variables</h2>
+			<hr />
 			<pre>
 				<?php var_dump( $_POST ); ?>
 			</pre>
+			<hr />
 		<?php endif; ?>
+
 		<form action="" method="POST">
 			<p>
 				<label for="string1">String 1</label>
@@ -84,10 +87,15 @@
 				<label for="arr1_arr2_1_2">2nd Element</label><br />
 			</fieldset>
 
-			<label for="select">Select Element</label>
-			<select name="select" id="select">
-				<option value="saikat">Saikat</option>
-			</select>
+			<p>
+				<label for="select">Select Element</label>
+				<select name="select" id="select">
+					<option value="">--please select--</option>
+					<option value="saikat">Saikat</option>
+					<option value="das">Das</option>
+				</select>
+			</p>
+
 			<input type="submit" name="" value="Damn Submit Button" />
 		</form>
 	</body>
