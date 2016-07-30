@@ -48,6 +48,7 @@
 			<select name="select" id="select">
 				<option value="saikat">Saikat</option>
 			</select>
+			<input type="submit" name="" value="Damn Submit Button" />
 		</form>
 	</body>
 </html>
