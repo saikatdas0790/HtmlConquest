@@ -20,6 +20,7 @@
 	</head>
 
 	<body>
+		<?php // This part is responsible for displaying the post variable ?>
 		<?php if ( 'POST' == $_SERVER['REQUEST_METHOD'] ) : ?>
 			<h2>Post Request Found: Dumping Variables</h2>
 			<hr />
@@ -29,6 +30,7 @@
 			<hr />
 		<?php endif; ?>
 
+		<h2>Our not so Awesome Form!</h2>
 		<form action="" method="POST">
 			<p>
 				<label for="string1">String 1</label>
