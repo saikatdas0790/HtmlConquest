@@ -20,6 +20,12 @@
 	</head>
 
 	<body>
+		<?php if ( 'POST' == $_SERVER['REQUEST_METHOD'] ) : ?>
+			<h2>Post Request Found: Dumping Variables</h2>
+			<pre>
+				<?php var_dump( $_POST ); ?>
+			</pre>
+		<?php endif; ?>
 		<form action="" method="POST">
 			<label for="string1">String 1</label>
 			<input type="text" name="string1" id="string1" value="User Data"><br>
@@ -35,7 +41,7 @@
 				<input type="checkbox" name="arr1[arr2][1][]" id="arr1_arr2_1_0" value="0"><br>
 
 				<label for="arr1[arr2][1][1]">Array 1 Array 2 1st Element 1st Element</label>
-				<input type="checkbox" name="arr1[arr2][1][]" id="arr1_arr2_1_1" value="1"><br>								
+				<input type="checkbox" name="arr1[arr2][1][]" id="arr1_arr2_1_1" value="1"><br>
 			</fieldset>
 
 			<label for="select">Select Element</label>
