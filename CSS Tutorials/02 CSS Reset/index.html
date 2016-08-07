@@ -2,10 +2,26 @@
 <html>
 <head>
 	<title>Just a bunch of default HTML elements</title>
+
+	<!-- The reset stylesheet ( on top of everything )
+	We link it like this for demonstration. Ideally there should be only one CSS
+	file in your document. The top of the CSS file will contain the code of reset.
+	But real world is far from being ideal. But still, while developing an APP,
+	it is preferred to keep the reset code on top of core CSS codes -->
 	<link rel="stylesheet" type="text/css" href="reset.css" id="reset-css" disabled />
+
+	<!-- Our basic Stylesheet -->
+	<link rel="stylesheet" type="text/css" href="../01%20CSS%20Declaration/style.css" />
+
+	<!-- Google WebFont -->
+	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" />
 </head>
 <body>
+<div class="external style center">
+	<button id="css-reseter" class="nice-button">Enable CSS Reset</button>
+</div>
 <div>
+
 	<h1>This is H1 Tag</h1>
 	<p>This is a paragraph tag inside <code>DIV</code> tag.</p>
 	<p>This line gives examples of <strong>Bold</strong>, <em>Italics</em> etc.</p>
