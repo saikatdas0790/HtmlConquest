@@ -1,29 +1,24 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Just a bunch of default HTML elements</title>
+	<title>All types of CSS Selectors</title>
+	<!-- Reset -->
+	<link rel="stylesheet" type="text/css" href="../02%20CSS%20Reset/reset.css" id="reset-css" />
 
-	<!-- The reset stylesheet ( on top of everything )
-	We link it like this for demonstration. Ideally there should be only one CSS
-	file in your document. The top of the CSS file will contain the code of reset.
-	But real world is far from being ideal. But still, while developing an APP,
-	it is preferred to keep the reset code on top of core CSS codes -->
-	<link rel="stylesheet" type="text/css" href="reset.css" id="reset-css" disabled />
+	<!-- Google Font -->
+	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" />
 
 	<!-- Our basic Stylesheet -->
 	<link rel="stylesheet" type="text/css" href="../01%20CSS%20Declaration/style.css" />
 
-	<!-- Google WebFont -->
-	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" />
+	<!-- Stylesheet with various CSS Selectors -->
+	<link rel="stylesheet" type="text/css" href="selectors.css" />
 
-	<!-- Our APP -->
-	<script type="text/javascript" src="app.min.js"></script>
+	<!-- Stylesheet with some typography -->
+	<link rel="stylesheet" type="text/css" href="typography.css" />
 </head>
 <body>
-	<div class="external style center">
-		<button id="css-reseter" class="nice-button">Enable CSS Reset</button>
-	</div>
-	<div>
+	<div id="mydiv">
 
 		<h1>This is H1 Tag</h1>
 		<p>This is a paragraph tag inside <code>DIV</code> tag.</p>
@@ -34,7 +29,8 @@
 			<cite>Cited by: Mr. John Doe</cite>
 		</blockquote>
 	</div>
-	<div>
+
+	<div class="adiv">
 		<h2>Here's a h2 inside another div</h2>
 		<p>With some listing below:</p>
 		<ul>
@@ -52,6 +48,28 @@
 			<li>This is ordered list item 5</li>
 		</ol>
 	</div>
+
+	<div class="anotherdiv">
+		<h2>Here's a h2 inside another div</h2>
+		<p>With some listing below:</p>
+		<h3>Unordered List</h3>
+		<ul>
+			<li class="first-li">This is unordered list item 1</li>
+			<li>This is unordered list item 2</li>
+			<li>This is unordered list item 3</li>
+			<li>This is unordered list item 4</li>
+			<li class="last-li">This is unordered list item 5</li>
+		</ul>
+		<h3>Ordered List</h3>
+		<ol>
+			<li class="first-li">This is ordered list item 1</li>
+			<li>This is ordered list item 2</li>
+			<li>This is ordered list item 3</li>
+			<li>This is ordered list item 4</li>
+			<li class="last-li">This is ordered list item 5</li>
+		</ol>
+	</div>
+
 	<div>
 		<h3>An h3 to show you a table</h3>
 		<table>

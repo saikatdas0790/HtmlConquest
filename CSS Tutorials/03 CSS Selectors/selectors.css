@@ -1,0 +1,62 @@
+/**
+ * Various types of selectors
+ * To keep it simple we just add background color #efefef/similar to the element
+ * we select
+ */
+
+/* ID Selector */
+#mydiv {
+	background: #efefef;
+}
+
+/* Class Selector */
+.adiv {
+	background: #efefef;
+}
+
+/* Element Selector */
+td, th {
+	border: 1px solid #efefef;
+}
+div {
+	margin: 20px;
+	padding: 10px;
+}
+
+/* Relationship Selectors */
+
+/* Descendant */
+div.adiv li {
+	background: #ddd;
+	margin: 0 0 10px 40px;
+	padding: 5px;
+	border: 1px solid #ccc;
+}
+
+/* Direct Child */
+.adiv ol > li {
+	background: #bbb;
+	border-color: #aaa;
+}
+
+/* Sibling Selector */
+.anotherdiv .first-li ~ li {
+	background: #ffffcc;
+	padding: 5px;
+	margin: 0 0 20px 100px;
+	border: 1px solid #666633;
+}
+
+/* Adjacent Selector */
+.anotherdiv .first-li + li {
+	background: #ccffcc;
+	border: 1px solid #336633;
+}
+
+/* Another example of descendant selector */
+.anotherdiv .first-li {
+	background: #ffcccc;
+	padding: 5px;
+	margin: 0 0 20px 100px;
+	border: 1px solid #663333;
+}
