@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<!-- It is more appropirate to say CSS linking than declaration,
+but it may confuse you! So we set the directory name `CSS Declaration` ~ Peace -->
+<head>
+	<title>Just a sample HTML File</title>
+
+	<!-- 01 `External` ( Preferred and recommended ) linking -->
+	<link rel="stylesheet" type="text/css" href="style.css" />
+
+	<!-- 02 `Internal` Declaration -->
+	<style type="text/css">
+		.internal {
+			background-color: #ffffcc;
+			margin: 40px auto;
+			padding: 20px;
+			width: 80%;
+			border: 1px solid #666633;
+		}
+	</style>
+</head>
+<body>
+
+<!-- HTML to reflect 01 -->
+<div class="external">
+	<p>I am styled by an External Stylesheet. I am GOOD! <code>B)</code></p>
+</div>
+
+<!-- HTML to reflect 02 -->
+<div class="internal">
+	<p>I am styled by an Internal Stylesheet. I am Okay! <code>:)</code></p>
+</div>
+
+<!-- 03 `Inline` Declaration -->
+<div class="inline" style="background-color: #ffcccc; margin: 40px auto; padding: 20px; width: 80%; border: 1px solid #663333;">
+	<p>I am styled by inline CSS declarations. I am BAD! <code>:|</code></p>
+</div>
+
+</body>
+</html>
