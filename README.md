@@ -1,2 +1,2 @@
 # HtmlConquest
-Html Jalwa with Swas
+Html Tutorials with Swashata
